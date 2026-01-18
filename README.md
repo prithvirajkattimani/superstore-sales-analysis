@@ -36,4 +36,4 @@ Analyze sales data to understand trends, growth patterns, category performance, 
 
 ## Files in This Repo
 - `02_analysis_superstore.ipynb` → Full analysis  
-- `clean_superstore_sales.csv` → Clean dataset used  
+- `clean_superstore_sales.csv` → Clean dataset used
